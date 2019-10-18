@@ -1,3 +1,2 @@
-# restaurant_bill
-
-A program to calculate the amount of possibilities there are to pay a bill.
+# Analysis Assignments
+je kon het antwoord zelf niet oplossen hé?;P
